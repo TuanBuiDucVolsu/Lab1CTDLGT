@@ -1,0 +1,7 @@
+﻿  Lab1Ctdlgt.cpp
+C:\Users\DELL\Desktop\Lab1ctdl\Lab1Ctdlgt\Lab1Ctdlgt\Lab1Ctdlgt.cpp(42,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\DELL\Desktop\Lab1ctdl\Lab1Ctdlgt\Lab1Ctdlgt\Lab1Ctdlgt.cpp(35): warning C4715: 'testarray<char>': not all control paths return a value
+C:\Users\DELL\Desktop\Lab1ctdl\Lab1Ctdlgt\Lab1Ctdlgt\Lab1Ctdlgt.cpp(35): warning C4715: 'testarray<double>': not all control paths return a value
+C:\Users\DELL\Desktop\Lab1ctdl\Lab1Ctdlgt\Lab1Ctdlgt\Lab1Ctdlgt.cpp(35): warning C4715: 'testarray<float>': not all control paths return a value
+C:\Users\DELL\Desktop\Lab1ctdl\Lab1Ctdlgt\Lab1Ctdlgt\Lab1Ctdlgt.cpp(35): warning C4715: 'testarray<int>': not all control paths return a value
+  Lab1Ctdlgt.vcxproj -> C:\Users\DELL\Desktop\Lab1ctdl\Lab1Ctdlgt\Debug\Lab1Ctdlgt.exe
